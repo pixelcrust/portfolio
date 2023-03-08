@@ -1028,11 +1028,11 @@ Services Style
 }
 
 .our-services .first-bar span {
-  left: 69%;
+  left: 88%;
 }
 
 .our-services .second-bar span {
-  left: 81%;
+  left: 88%;
 }
 
 .our-services .third-bar span {
@@ -1066,11 +1066,11 @@ Services Style
 }
 
 .our-services .first-bar .filled-bar {
-  width: 71%;
+  width: 90%;
 }
 
 .our-services .second-bar .filled-bar {
-  width: 83%;
+  width: 90%;
 }
 
 .our-services .third-bar .filled-bar {
@@ -1343,13 +1343,11 @@ contact
 
 form#contact .contact-dec {
   position: absolute;
-  right: -166px;
+  right: -366px;
   bottom: 0;
 }
 
-form#contact .contact-dec img {
-  max-width: 178px;
-}
+
 
 form#contact {
   margin-left: 30px;
