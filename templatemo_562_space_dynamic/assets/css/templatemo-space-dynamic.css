@@ -1065,6 +1065,10 @@ Services Style
   z-index: 2;
 }
 
+#iframe{
+  min-width: 512px;
+  min-height: 128px;
+}
 .our-services .first-bar .filled-bar {
   width: 90%;
 }
