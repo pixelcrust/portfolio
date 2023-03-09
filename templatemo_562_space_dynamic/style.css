@@ -1,0 +1,8 @@
+@media ( max-width: 992px ) {
+    .wattkarte2{
+        visibility:hidden ;
+    }
+}
+iframe{
+    max-width: 100%;
+}
